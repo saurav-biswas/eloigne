@@ -1,0 +1,26 @@
+﻿[10.0.26100.8749]
+LocalOnlyPatch.x64=1
+LocalOnlyOffset.x64=98321
+LocalOnlyCode.x64=jmpshort
+SingleUserPatch.x64=1
+SingleUserOffset.x64=A55CB
+SingleUserCode.x64=mov_eax_1_nop_2
+DefPolicyPatch.x64=1
+DefPolicyOffset.x64=A276D
+DefPolicyCode.x64=CDefPolicy_Query_r9d_rdi_jmp
+SLInitHook.x64=1
+SLInitOffset.x64=B9754
+SLInitFunc.x64=New_CSLQuery_Initialize
+
+
+[10.0.26100.8749-SLInit]
+bInitialized.x64      =12D248
+bServerSku.x64        =12D24C
+lMaxUserSessions.x64  =12D250
+bAppServerAllowed.x64 =12D258
+bRemoteConnAllowed.x64=12D264
+bMultimonAllowed.x64  =12D268
+ulMaxDebugSessions.x64=12D270
+bFUSEnabled.x64       =12D274
+
+
