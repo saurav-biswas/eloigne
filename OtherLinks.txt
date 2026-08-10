@@ -5,7 +5,6 @@ https://raw.githubusercontent.com/asmtron/rdpwrap/master/res/rdpwrap.ini
 https://raw.githubusercontent.com/saurav-biswas/rdpwrap-1/patch-1/res/rdpwrap.ini
 https://raw.githubusercontent.com/tmaguire/rdpwrap/master/res/rdpwrap.ini
 https://raw.githubusercontent.com/kotadr/rdpwrap/master/res/rdpwrap.ini
-https://raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini
 https://raw.githubusercontent.com/DrDrrae/rdpwrap/master/res/rdpwrap.ini
 https://raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrap.ini
 https://raw.githubusercontent.com/apolope/rdpwrap/master/res/rdpwrap.ini
